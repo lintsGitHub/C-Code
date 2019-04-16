@@ -11,7 +11,9 @@ namespace 日志Log4Net.Controllers
     {
         //去配置文件中加载Log4Net的配置
         static LogFactory() {
+            //去找配置文件
             FileInfo configFile = new FileInfo(HttpContext.Current.Server.MapPath("/Configs/log4net.config"));
+            //解析配置文件
             log4net.Config.XmlConfigurator.Configure(configFile);
         }
 
