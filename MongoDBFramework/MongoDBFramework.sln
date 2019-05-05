@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBFramework", "MongoDBFramework\MongoDBFramework.csproj", "{0613B916-F1B4-4092-B065-D813DF4CF650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilTest", "UtilTest\UtilTest.csproj", "{43A8643D-0B39-4014-B755-769B042BBC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0613B916-F1B4-4092-B065-D813DF4CF650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0613B916-F1B4-4092-B065-D813DF4CF650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0613B916-F1B4-4092-B065-D813DF4CF650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0613B916-F1B4-4092-B065-D813DF4CF650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A8643D-0B39-4014-B755-769B042BBC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A8643D-0B39-4014-B755-769B042BBC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A8643D-0B39-4014-B755-769B042BBC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A8643D-0B39-4014-B755-769B042BBC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20174B40-4AF7-4F41-B4D4-9DC545EA69DC}
+	EndGlobalSection
+EndGlobal

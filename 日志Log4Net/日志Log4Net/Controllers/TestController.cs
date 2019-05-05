@@ -15,9 +15,13 @@ namespace 日志Log4Net.Controllers
         }
 
         public String hello() {
-            Log log = LogFactory.GetLogger("InfoLog");
-            log.Info("Hello");
-            return "";
+            Log log = LogFactory.GetLogger("TopeveryByDUM");
+            var stus = new stu();
+            stus.Name = "李四";
+            stus.Age = 23;
+            log.Info(stus);
+            return "成功";
         }
     }
+   
 }

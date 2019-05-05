@@ -75,3 +75,9 @@ D:\个人C#\GitHub\日志Log4Net\日志Log4Net\obj\Debug\日志Log4Net.csproj.Co
 D:\个人C#\GitHub\日志Log4Net\日志Log4Net\obj\Debug\日志Log4Net.csproj.CopyComplete
 D:\个人C#\GitHub\日志Log4Net\日志Log4Net\obj\Debug\日志Log4Net.dll
 D:\个人C#\GitHub\日志Log4Net\日志Log4Net\obj\Debug\日志Log4Net.pdb
+D:\个人C#\GitHub\日志Log4Net\日志Log4Net\bin\Log4Mongo.dll
+D:\个人C#\GitHub\日志Log4Net\日志Log4Net\bin\MongoDB.Bson.dll
+D:\个人C#\GitHub\日志Log4Net\日志Log4Net\bin\MongoDB.Driver.Core.dll
+D:\个人C#\GitHub\日志Log4Net\日志Log4Net\bin\MongoDB.Driver.dll
+D:\个人C#\GitHub\日志Log4Net\日志Log4Net\bin\MongoDB.Bson.xml
+D:\个人C#\GitHub\日志Log4Net\日志Log4Net\bin\MongoDB.Driver.xml
